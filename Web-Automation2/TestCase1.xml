@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testcase">
+	<test name="createuser">
+		<classes>
+			<class name="com.sgtesting.actiTime.Scenario11"></class>
+			<class name="com.sgtesting.actiTime.Scenario22"></class>
+			<class name="com.sgtesting.actiTime.Scenario33"></class>
+			<class name="com.sgtesting.actiTime.Scenario44"></class>
+			<class name="com.sgtesting.actiTime.Scenario55"></class>
+			<class name="com.sgtesting.actiTime.Scenario66"></class>
+			<class name="com.sgtesting.actiTime.Scenario77"></class>
+		</classes>
+	</test>
+</suite>
